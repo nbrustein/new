@@ -1,4 +1,4 @@
-# NAME
+# NAME_DASHED
 
 DESCRIPTION
 
@@ -6,24 +6,24 @@ DESCRIPTION
 
 From the command line:
     
-    bower install NAME
+    bower install NAME_DASHED
 
 From the bower.json file
     
     {
 	    "...
 	    "dependencies": {
-	        "NAME": "0.0.1"
+	        "NAME_DASHED": "0.0.1"
 	    },
 		...
 	}
 	
 In your html
 
-    <script type="text/javascript" src="bower_components/NAME/dist/NAME_UNDERSCORED.js"></script>
+    <script type="text/javascript" src="bower_components/NAME_DASHED/dist/NAME_UNDERSCORED.js"></script>
 or
 
-    <script type="text/javascript" src="bower_components/NAME/dist/NAME_UNDERSCORED.min.js"></script>
+    <script type="text/javascript" src="bower_components/NAME_DASHED/dist/NAME_UNDERSCORED.min.js"></script>
 
 ### Dependencies
 
