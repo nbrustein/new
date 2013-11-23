@@ -1,1 +1,1 @@
-Welcome to NAME_DASHED documentation.
+Welcome to NAME documentation.

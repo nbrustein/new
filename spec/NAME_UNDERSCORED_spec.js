@@ -1,6 +1,6 @@
 'use strict'
 
-describe('NAME_DASHED', function() {
+describe('NAME', function() {
 
     var some, vars;
 
