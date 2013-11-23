@@ -1,0 +1,21 @@
+{
+  "name": "NAME",
+  "version": "0.0.1",
+  "description": "DESCRIPTION",
+  "repository": {
+    "url": "REPO_URL",
+    "type": "git"
+  },
+  "devDependencies": {
+    "karma": "0.10.2",
+    "grunt": "*",
+    "grunt-karma": "*",
+    "karma-phantomjs-launcher": "~0.1.0",
+    "phantomjs": "~1.9.2",
+    "grunt-groc": "~0.4.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0"
+  },
+  "author": "AUTHOR"
+}
