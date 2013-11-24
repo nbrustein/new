@@ -13,7 +13,7 @@ From the bower.json file
     {
 	    "...
 	    "dependencies": {
-	        "NAME": "0.0.1"
+	        "NAME": "0.0.0"
 	    },
 		...
 	}
