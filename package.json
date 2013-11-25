@@ -1,9 +1,9 @@
 {
-  "name": "NAME",
+  "name": "new",
   "version": "0.0.0",
-  "description": "DESCRIPTION",
+  "description": "a new one",
   "repository": {
-    "url": "REPO_URL",
+    "url": "https://github.com/nbrustein/new.git",
     "type": "git"
   },
   "devDependencies": {
@@ -17,5 +17,5 @@
     "grunt-contrib-clean": "~0.4.1",
     "grunt-contrib-concat": "~0.3.0"
   },
-  "author": "AUTHOR"
+  "author": "Nate B"
 }

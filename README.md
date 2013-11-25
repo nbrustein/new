@@ -1,29 +1,29 @@
-# NAME
+# new
 
-DESCRIPTION
+a new one
 
 ### Installation
 
 From the command line:
     
-    bower install NAME
+    bower install new
 
 From the bower.json file
     
     {
 	    "...
 	    "dependencies": {
-	        "NAME": "0.0.0"
+	        "new": "0.0.0"
 	    },
 		...
 	}
 	
 In your html
 
-    <script type="text/javascript" src="bower_components/NAME/dist/NAME_UNDERSCORED.js"></script>
+    <script type="text/javascript" src="bower_components/new/dist/new.js"></script>
 or
 
-    <script type="text/javascript" src="bower_components/NAME/dist/NAME_UNDERSCORED.min.js"></script>
+    <script type="text/javascript" src="bower_components/new/dist/new.min.js"></script>
 
 ### Dependencies
 

@@ -1,1 +1,1 @@
-Welcome to NAME documentation.
+Welcome to new documentation.

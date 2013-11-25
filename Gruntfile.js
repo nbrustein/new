@@ -5,7 +5,7 @@ module.exports = function(grunt) {
     var yeomanConfig = {
         app: 'app',
         dist: 'dist',
-        main: 'NAME_UNDERSCORED'
+        main: 'new'
     };
 
     try {

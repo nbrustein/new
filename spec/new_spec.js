@@ -1,11 +1,11 @@
 'use strict'
 
-describe('NAME', function() {
+describe('new', function() {
 
     var some, vars;
 
     beforeEach(function() {
-        module('NAME_CAMELCASED');
+        module('New');
                 
         inject(function(){
         });

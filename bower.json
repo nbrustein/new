@@ -1,7 +1,7 @@
 {
-    "name": "NAME",
+    "name": "new",
     "version": "0.0.0",
-    "main": "./dist/NAME_UNDERSCORED.js",
+    "main": "./dist/new.js",
     "dependencies": {
         "angular": "~1.2.0"
     },
