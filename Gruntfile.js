@@ -76,4 +76,7 @@ module.exports = function(grunt) {
     grunt.registerTask('build', [
         'clean:dist', 'concat','uglify'
         ]);
+    grunt.registerTask('dist', [
+        'groc', 'build'
+        ]);
 };
